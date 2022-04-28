@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emilygalvin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in photography & design
+- 🌱 I’m currently learning how to set up an AR gallery.
+- 💞️ I’m looking to collaborate on new ways to view NFTs.
 - 📫 How to reach me emilyegalvin@gmail.com
 
 <!---
